@@ -62,7 +62,7 @@ Option 2 was exported as `contacts_regex.csv`
 
 A [schema](https://github.com/HollaNotes/Crowdfunding_ETL/blob/main/crowdfunding_db_schema.sql) was created.
 
-An ![ERD](https://github.com/HollaNotes/Crowdfunding_ETL/blob/main/Resources/crowding_db_ERD.png) was also created
+An  ERD ![ERD](https://github.com/HollaNotes/Crowdfunding_ETL/blob/main/Resources/crowding_db_ERD.png) was also created
 
 
 
